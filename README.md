@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yadekanbir
 - 👀 I'm studying Computer Science in Trakya University.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Swift.
 
 <!--
 **yadekanbir/yadekanbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
